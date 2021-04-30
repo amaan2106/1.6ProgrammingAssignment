@@ -1,5 +1,7 @@
 package academy.learnprogramming;
 
 public class Wolf {
-}
-hjk
+
+    int keyboard;
+
+    }
